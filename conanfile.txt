@@ -1,5 +1,5 @@
 [requires]
-hello/0.3.0@wangyoucao577/stable
+hello/0.4.0@wangyoucao577/stable
 
 [generators]
 cmake
